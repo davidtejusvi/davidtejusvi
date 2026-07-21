@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Tejusvi</h1> 
 
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=950&lines=AWS+DevOps+Engineer;Cloud+Enthusiast;Infrastructure+as+Code;CI%2FCD+%7C+Kubernetes;Full+Stack+Engineer;Exploring+MLOps+%26+LLMOps"/>
 </p>
@@ -11,6 +12,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
+
+🔗 **Portfolio Blog:** https://blog-beta-peach-64.vercel.app/
 
 ---
 
