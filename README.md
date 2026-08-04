@@ -94,13 +94,6 @@ Amazon RDS • DynamoDB • PostgreSQL • MySQL • MongoDB
 
 ---
 
-# 📈 GitHub Stats
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidtejusvi&" alt="davidtejusvi" />
-</p>
-
 # 📫 Connect With Me
 
 <p align="left">
