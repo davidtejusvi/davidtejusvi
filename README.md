@@ -97,7 +97,7 @@ Amazon RDS • DynamoDB • PostgreSQL • MySQL • MongoDB
 # 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/david-tejesvi-418b56135/" target="_blank">
+  <a href="https://https://www.linkedin.com/in/david-tejesvi-a-j-418b56135/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
